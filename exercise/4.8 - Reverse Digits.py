@@ -1,9 +1,4 @@
 
-# name = input("What is your name? ")
-
-# print("Name: " + name)
-# print("Num: " + num)
-
 num = input("What is your favorite number? ")
 number = int(num)
 
